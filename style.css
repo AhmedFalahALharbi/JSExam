@@ -1,0 +1,35 @@
+body {
+    background-color: #F5EDED !important;
+}
+
+section {
+    background-color: #F5EDED;
+
+    
+}
+nav {
+    background-color: #6482AD;
+    /* box-shadow: 5px 10px 10px #7FA1C3 ; */
+}
+.navbtn {
+    color:#7FA1C3;
+    background-color: #F5EDED;
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+    border-radius: 10px;
+}
+#loginbtn {
+    background-color: #6482AD;
+    border-radius: 10px;
+    border: 0px;
+}
+button:hover {
+    opacity: 80%;
+}
+button:active {
+    opacity: 50%;
+}
+a {
+    text-decoration-line: none;
+}
